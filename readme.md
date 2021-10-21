@@ -25,3 +25,9 @@ Run it in the root folder.
 ```
 npm run seeder
 ```
+### Link
+https://ecommerce-bucky.herokuapp.com/
+
+Account Admin:
+Email: admin@gmail.com
+Password: 123456
